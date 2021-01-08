@@ -1,0 +1,5 @@
+type = "book"
+productid = "123456"
+description = "hello world"
+price = "5"
+author = "me"
